@@ -1,4 +1,4 @@
-# Simple-Fortune-Cookie (with improvements shown)
+# Simple Fortune Cookie (with improvements shown)
 
 This project is a simple fortune-teller program that randomly generates a lucky number and a fortune message. It uses Python's random module to select a number between 1 and 100 as the lucky number and picks ```random``` fortune statement from a predefined set of messages. The program provides a fun and lighthearted way to predict the user's day or future with a random element of surprise!
 
