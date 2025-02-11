@@ -48,7 +48,7 @@ While the code works correctly, it has some inefficiencies:
 
 <h2>Improvement</h2>
 
-I wanted to improve the fortune-teller program by making it more efficient, readable, and scalable. Instead of using multiple if statements to assign a fortune message, you aimed to streamline the process using a dictionary lookup, which simplifies the code and makes it easier to expand. By implementing these improvements, the program became cleaner, more maintainable, and better suited for adding new fortunes in the future.
+I wanted to improve the fortune-teller program by making it more efficient, readable, and scalable. Instead of using multiple if statements to assign a fortune message, I aimed to streamline the process using a dictionary lookup, which simplifies the code and makes it easier to expand. By implementing these improvements, the program became cleaner, more maintainable, and better suited for adding new fortunes in the future.
 
 <h3>Optimzied Code</h3>
 
